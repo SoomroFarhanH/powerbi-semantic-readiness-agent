@@ -1,6 +1,27 @@
 # Power BI Semantic Readiness Remediation Agent
 
+![License](https://img.shields.io/github/license/SoomroFarhanH/powerbi-semantic-readiness-agent)
+![Last Commit](https://img.shields.io/github/last-commit/SoomroFarhanH/powerbi-semantic-readiness-agent)
+![Issues](https://img.shields.io/github/issues/SoomroFarhanH/powerbi-semantic-readiness-agent)
+![Repo Size](https://img.shields.io/github/repo-size/SoomroFarhanH/powerbi-semantic-readiness-agent)
+
 This guide helps end users run the Semantic AI Readiness Analyzer and remediate findings with natural language.
+
+## Quick Demo
+
+Add a short GIF at [docs/demo.gif](docs/demo.gif) to show the full flow in under 30 seconds:
+1. Connect
+2. Analyze
+3. Remediate
+4. Validate
+
+Once added, this markdown will render the demo on the repo home page:
+
+```md
+![Agent Demo](docs/demo.gif)
+```
+
+Demo script reference: [docs/DEMO.md](docs/DEMO.md)
 
 ## 30-second start
 
