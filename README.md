@@ -1,4 +1,4 @@
-# Power BI Semantic Readiness Remediation Agent
+# Power BI Semantic Model Readiness Remediation Agent
 
 ![License](https://img.shields.io/github/license/SoomroFarhanH/powerbi-semantic-readiness-agent)
 ![Last Commit](https://img.shields.io/github/last-commit/SoomroFarhanH/powerbi-semantic-readiness-agent)
